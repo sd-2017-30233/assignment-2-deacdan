@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<book_store>
+<book>
+<title>amintiri</title>
+<author>creanga</author>
+<genre>epic</genre>
+<quantity>68</quantity>
+<price>13</price>
+</book>
+<book>
+<title>Fratii Jderi</title>
+<author>Sadoveanu</author>
+<genre>epic</genre>
+<quantity>15</quantity>
+<price>22</price>
+</book>
+</book_store>

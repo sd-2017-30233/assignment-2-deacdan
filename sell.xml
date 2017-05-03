@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<book_store>
+<sell>
+<title>amintiri</title>
+<author>creanga</author>
+<genre>epic</genre>
+<quantity>10</quantity>
+<price>13</price>
+<totalPrice>130</totalPrice>
+</sell>
+<sell>
+<title>Fratii Jderi</title>
+<author>Sadoveanu</author>
+<genre>epic</genre>
+<quantity>123</quantity>
+<price>22</price>
+<totalPrice>2706</totalPrice>
+</sell>
+<sell>
+<title>amintiri</title>
+<author>creanga</author>
+<genre>epic</genre>
+<quantity>12</quantity>
+<price>13</price>
+<totalPrice>156</totalPrice>
+</sell>
+</book_store>

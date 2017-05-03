@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<book_store>
+<user>
+<username>admin</username>
+<password>admin</password>
+<type>admin</type>
+</user>
+<user>
+<username>deac</username>
+<password>deac</password>
+<type>employee</type>
+</user>
+</book_store>
